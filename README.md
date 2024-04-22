@@ -1,7 +1,6 @@
-# KabanDon
+# Kaban
 
-KanbanDon is a kanban board application that allows users to create, update, and delete tasks. 
-Users can also move tasks between columns and mark tasks as complete.
+Kanban is a kanban board application. The user uses a singular Kanban board to manage their tasks.
 
 ## Technologies
 - React
