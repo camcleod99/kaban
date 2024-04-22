@@ -1,6 +1,6 @@
-import Sidebar  from "@/app/components/Sections/Sidebar";
-import Header   from "@/app/components/Sections/Header";
-import Content  from "@/app/components/Sections/Content";
+import Sidebar from "@/app/components/Sections/Sidebar";
+import Header from "@/app/components/Sections/Header";
+import Content from "@/app/components/Sections/Content";
 
 const main = () => {
   return (
