@@ -1,6 +1,7 @@
 import React from "react";
 
 const Header = () => {
+  // We'll set this later to dynamicaly change the name of the header
   const HeaderProps = {
     name: `Asda`,
   };
